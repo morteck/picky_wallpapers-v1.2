@@ -26,3 +26,31 @@ To get started, follow these steps:
 **Clone the Repository:**
 
 git clone https://github.com/your-username/wallpaper-repo.git
+
+Navigate to the Wallpapers Directory:
+
+cd wallpaper-repo/Wallpapers
+
+Choose a Wallpaper:
+Browse through the available wallpapers and choose the one you like.
+
+Download the Wallpaper:
+Download the selected wallpaper to your device.
+
+Set as Wallpaper:
+Set the downloaded wallpaper as your desktop or mobile wallpaper.
+
+Contribution Guidelines:
+
+If you'd like to contribute to this repository, please follow these guidelines:
+
+    Ensure that the wallpapers you submit are high-quality and appropriate for a wide audience.
+    Add your wallpaper to the appropriate category or create a new category if necessary.
+    Provide a brief description or title for each wallpaper you add.
+
+To contribute, fork this repository, create a new branch for your changes, add your wallpapers, and submit a pull request.
+
+License:
+This wallpaper repository is licensed under the MIT License, which means you are free to use, modify, and share the wallpapers for personal or commercial purposes.
+
+Happy wallpapering! 🌈✨
